@@ -34,5 +34,6 @@ tugas2 *0.3+uts2 *0.35+uas2 *0.35
 10.Program selesai.
 # <p align="center">FLOWCHART</p>
 ![](diagram.jpg)
+
 # <p align="center">HASIL</p>
 ![](screnshoot.jpg)
