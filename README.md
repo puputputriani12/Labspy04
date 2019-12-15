@@ -32,7 +32,7 @@ tugas2 *0.3+uts2 *0.35+uas2 *0.35
 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
 
 10.Program selesai.
-<P align="center">FLOWCHART</p>
+# <p align="center">FLOWCHART</p>
 ![](diagram.jpg)
-<P align="center">HASIL</p>
+# <p align="center">HASIL</p>
 ![](screnshoot.jpg)
