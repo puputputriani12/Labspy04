@@ -1,7 +1,7 @@
 # <p align="center">Penjelasan Program 4</p>
 1.Pertama buat program akan mendeklarasikan beberapa list kosong.
 
-2.Kemudian anda akan dimintai menginput untuk menambah list yang kosong yang dibuat tadi.
+2.Kemudian inputkan untuk menambah list yang kosong.
 
 3.Anda diminta menginputkan beberapa data.
 
