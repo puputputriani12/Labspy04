@@ -36,4 +36,4 @@ tugas2 *0.3+uts2 *0.35+uas2 *0.35
 ![](diagram.jpg)
 
 # <p align="center">HASIL</p>
-![](screnshoot.jpg)
+![](screnshoot.JPG)
